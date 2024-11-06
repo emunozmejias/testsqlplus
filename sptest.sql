@@ -5,5 +5,5 @@ BEGIN
 END; 
 /
   
-CALL greetings;
+EXECUTE greetings;
 
